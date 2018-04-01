@@ -19,7 +19,7 @@ Card Combinations
 Card combinations are ranked in the following order, from lowest to highest:
 Single Card:One card.When comparing Single Cards, the higher card wins.Highest: Red Joker;Lowest: 3
 Pair:Two cards with the same rank, except two Jokers.
-When comparing Pairs, the highest Pair wins.Highest: 2,2;Lowest: 3, 3
+When comparing Pairs, the highest Pair wins. Highest: 2,2;Lowest: 3, 3
 Three of a Kind:Three cards with the same rank.When comparing Three of a Kinds, the combination with the highest rank wins. Ex. K, K, K beats Q, Q, Q.Highest: 2, 2, 2;Lowest: 3, 3, 3
 Three of a Kind plus a Single Card:For example, 3, 3, 3 + 6. If a player plays this combination, other players must play the same combination. They cannot play Three of a Kind plus a Pair.When comparing combinations, the rank of the Three of a Kind counts.Highest: 2, 2, 2 plus Single Card;Lowest: 3, 3, 3 plus Single Card
 Three of a Kind plus a Pair:The same as above except the Three of a Kind is followed by a Pair. For example, 3, 3, 3 + 9, 9. If a player plays Three of a Kind plus a Pair, other players must play the same combination, they cannot play Three of a Kind plus a Single Card.When comparing combinations, the rank of the Three of a Kind counts.Highest: 2, 2, 2 + Pair;Lowest: 3, 3, 3 + Pair
