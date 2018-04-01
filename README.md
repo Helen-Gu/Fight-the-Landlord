@@ -19,11 +19,11 @@ Card Combinations
 Card combinations are ranked in the following order, from lowest to highest:
 Single Card:One card.When comparing Single Cards, the higher card wins.Highest: Red Joker;Lowest: 3
 Pair:Two cards with the same rank, except two Jokers.
-When comparing Pairs, the highest Pair wins. Highest: 2,2;Lowest: 3, 3
+When comparing Pairs, the highest Pair wins.Highest: 2,2;Lowest: 3, 3
 Three of a Kind:Three cards with the same rank.When comparing Three of a Kinds, the combination with the highest rank wins. Ex. K, K, K beats Q, Q, Q.Highest: 2, 2, 2;Lowest: 3, 3, 3
 Three of a Kind plus a Single Card:For example, 3, 3, 3 + 6. If a player plays this combination, other players must play the same combination. They cannot play Three of a Kind plus a Pair.When comparing combinations, the rank of the Three of a Kind counts.Highest: 2, 2, 2 plus Single Card;Lowest: 3, 3, 3 plus Single Card
 Three of a Kind plus a Pair:The same as above except the Three of a Kind is followed by a Pair. For example, 3, 3, 3 + 9, 9. If a player plays Three of a Kind plus a Pair, other players must play the same combination, they cannot play Three of a Kind plus a Single Card.When comparing combinations, the rank of the Three of a Kind counts.Highest: 2, 2, 2 + Pair;Lowest: 3, 3, 3 + Pair
 Straight:Five or more cards of sequential rank. For example, 4, 5, 6, 7, 8 or 4, 5, 6, 7, 8, 9, 10, J, Q, K, A. The 2 and Joker cards cannot be included in a Straight. If a Straight is played, the following player must lay down the same number of cards. For example, if a new round starts with a five card Straight, the next player`s hand must also be a five card Straight.When comparing Straights, the Straight with highest card wins.Highest: A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3;Lowest: 7, 6, 5, 4, 3
 Pair Straight:At least three Pairs of sequential rank. For example, 3, 3, 4, 4, 5, 5 or 7, 7, 8, 8, 9, 9, 10, 10, J, J The 2 and Joker cards cannot be included in a Pair Straight.
 When comparing Pair Straights, the Straight with highest Pair wins.Highest: A, A, K, K, Q, Q;Lowest: 3, 3, 4, 4, 5, 5
-.....…
+......
